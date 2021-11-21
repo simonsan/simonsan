@@ -1,4 +1,32 @@
-### Hi there 👋
+## Hi there 👋
+
+### My Interests
+
+- I prefer open-source projects by default;
+
+- The default programming language I use is Rust;
+
+- My daily driver is Windows;
+
+- My secondary daily driver is Debian Linux;
+
+- My favourite IDE is [VS Codium](https://vscodium.com/);
+
+- My favourite code editor is [Neovim](https://github.com/neovim/neovim/wiki/Installing-Neovim).
+
+
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=simonsan&theme=github_dark)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=simonsan&theme=github_dark)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=simonsan&theme=github_dark)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=simonsan&theme=github_dark)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=simonsan&theme=github_dark)
+
+
 
 <!--
 **simonsan/simonsan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
