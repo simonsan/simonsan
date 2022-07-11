@@ -8,7 +8,7 @@
 
 - My daily driver is Windows;
 
-- My secondary daily driver is Debian Linux;
+- My secondary daily driver is openSUSE Tumbleweed;
 
 - My favourite IDE is [VS Codium](https://vscodium.com/);
 
