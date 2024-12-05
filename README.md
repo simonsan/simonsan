@@ -12,7 +12,7 @@
 
 - My favourite IDE is [VS Codium](https://vscodium.com/);
 
-- My favourite code editor is [Neovim](https://github.com/neovim/neovim/wiki/Installing-Neovim).
+- My favourite code editor is [helix](https://github.com/helix-editor/helix).
 
 
 
