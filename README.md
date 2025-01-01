@@ -8,9 +8,9 @@
 
 - C, C++, Python, PHP, TS/JS are other languages I use;
 
-- My daily driver is Windows using [VS Codium](https://vscodium.com/)/[helix](https://github.com/helix-editor/helix);
+- My daily driver is openSUSE Tumbleweed using [zed](https://zed.dev/)/[helix](https://github.com/helix-editor/helix);
 
-- My secondary daily driver is openSUSE Tumbleweed using [zed](https://zed.dev/)/[helix](https://github.com/helix-editor/helix);
+- My secondary daily driver is Windows using [VS Codium](https://vscodium.com/)/[helix](https://github.com/helix-editor/helix);
 
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=simonsan&theme=github_dark)
